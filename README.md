@@ -140,18 +140,17 @@
 
  
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mr-Yazdanian-Dev&show_icons=true&theme=tokyonight)<br/>
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Mr-Yazdanian-Dev&show_icons=true&theme=tokyonight" />
 
-[![](https://streak-stats.demolab.com/?user=Mr-Yazdanian-Dev&theme=tokyonight)](https://git.io/streak-stats)<br/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Yazdanian-Dev&layout=compact&theme=tokyonight" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Yazdanian-Dev&layout=compact&theme=tokyonight)
-
- 
----
-
- 
+ ---
 
 ### ✍️ Random Dev Quote
 
