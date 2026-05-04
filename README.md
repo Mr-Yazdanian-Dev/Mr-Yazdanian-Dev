@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<h1 align="center"> I'm Mohammad Reza Yazdanian. </h1>
-<h3 align="center">Data Analyst | Machine Learning & Deep Learning Engineer | Web Designer</h3>
+<h1 align="left"> I'm Mohammad Reza Yazdanian. </h1>
+<h3 align="left">Data Analyst | Machine Learning & Deep Learning Engineer | Web Designer</h3>
 
 ---
 
